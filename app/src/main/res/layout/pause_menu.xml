@@ -27,12 +27,14 @@
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:backgroundTint="@android:color/holo_green_dark"
             android:text="Resume" />
 
         <Button
             android:id="@+id/quit_to_menu_button"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/holo_green_dark"
             android:text="Quit to Menu" />
 
     </LinearLayout>
